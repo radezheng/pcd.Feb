@@ -1,0 +1,17 @@
+POST https://aisvc-wu3.openai.azure.com/models/chat/completions?api-version=2024-05-01-preview
+Content-Type: application/json
+api-key: 2vVZCAZhOHNQ2Cp46gBgDNW0b6x5V1PGXq7NfgYon5VUkq4jaA4VJQQJ99BBACMsfrFXJ3w3AAAAACOGAsfL
+
+{
+          "messages": [{"role":"system","content":"You are a helpful assistant."},
+                       {"role":"user","content":"hi"}],
+          "max_tokens": 800,
+          "temperature": 0.7,
+          "frequency_penalty": 0,
+          "presence_penalty": 0,
+          "best_of": 1,
+          "top_p": 0.95,
+          "stop": null,
+          "stream": false,
+          "model": "DeepSeek-R1"
+}

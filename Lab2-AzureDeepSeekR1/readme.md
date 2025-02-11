@@ -1,0 +1,17 @@
+# Lab2 - Auzre上的 DeepSeek-R1 初体验
+
+## 部署DeepSeek-R1无服器服务
+参考:[Azure AI Foundry 上部署 DeepSeek R1](./Azure AI Foundry 上部署 DeepSeek R1.pdf)
+
+## [选做] SDK 调用
+REST API, VS code上安装 [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) 插件，然后使用如下的调用方式：
+[test.http](./test.http)
+
+<br/>
+代码调用:
+https://learn.microsoft.com/zh-cn/azure/ai-studio/how-to/deploy-models-deepseek?pivots=programming-language-python
+<br/>
+
+
+## [选做] 进阶 GPU 虚机上部署
+https://github.com/xinyuwei-david/david-share/tree/master/Deep-Learning/DeepSeek-R1-on-Azure
