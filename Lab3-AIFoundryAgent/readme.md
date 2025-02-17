@@ -17,3 +17,5 @@ https://learn.microsoft.com/en-us/azure/ai-services/agents/how-to/tools/bing-gro
 ## 选做 - 部署多Agent应用
  https://azure.github.io/ai-app-templates/repo/azure-samples/agent-openai-java-banking-assistant/
 
+![](./multiagent.png)
+
