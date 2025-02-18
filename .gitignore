@@ -2,3 +2,5 @@
 *.sh
 /test.http
 .DS_Store
+*.webm
+*.mp4
